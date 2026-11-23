@@ -1,0 +1,1 @@
+- 2026-11-23: verified the default configuration works with the current version
